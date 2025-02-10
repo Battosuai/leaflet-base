@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    margin: 0;
+}
+
+#map {
+    width: 800px;
+    height: 600px;
+}
+
+/* Remove attribution from the map */
+/* .leaflet-control-attribution.leaflet-control {
+    display: none;
+} */
